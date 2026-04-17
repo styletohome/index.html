@@ -60,7 +60,6 @@ text-decoration: none;
 font-weight: bold;
 }
 </style>
-
 </head>
 
 <body>
@@ -97,7 +96,7 @@ Use wall shelves, mirrors and light colors to make small spaces look bigger.
 
 <h2>More Ideas</h2>
 <p>
-Visit our website for more tips:
+Visit our website:
 <a href="https://styletothehome.com" target="_blank">Click Here</a>
 </p>
 
