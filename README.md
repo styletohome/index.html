@@ -23,10 +23,10 @@ text-align: center;
 
 .container {
 width: 90%;
-max-width: 1000px;
+max-width: 900px;
 margin: auto;
-padding: 20px;
 background: white;
+padding: 20px;
 margin-top: 20px;
 border-radius: 10px;
 }
@@ -95,10 +95,7 @@ Use wall shelves, mirrors and light colors to make small spaces look bigger.
 </div>
 
 <h2>More Ideas</h2>
-<p>
-Visit our website:
-<a href="https://styletothehome.com" target="_blank">Click Here</a>
-</p>
+<p>Visit our website: <a href="#">Click Here</a></p>
 
 </div>
 
