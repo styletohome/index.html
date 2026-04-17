@@ -4,6 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Home Decor Ideas</title>
+
 <style>
 body {
 font-family: Arial, sans-serif;
@@ -52,12 +53,14 @@ margin-top: 20px;
 background: #2c3e50;
 color: white;
 }
+
 a {
 color: #e67e22;
 text-decoration: none;
 font-weight: bold;
 }
 </style>
+
 </head>
 
 <body>
@@ -70,9 +73,7 @@ font-weight: bold;
 <div class="container">
 
 <h2>Welcome</h2>
-<p>
-Discover simple and modern home decor ideas to make your home beautiful and stylish without spending too much money.
-</p>
+<p>Discover simple and modern home decor ideas to make your home beautiful and stylish without spending too much money.</p>
 
 <h2>Living Room Ideas</h2>
 <div class="card">
